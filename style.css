@@ -1,0 +1,190 @@
+body {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+b{
+    color: black;
+}
+b span{
+    color: green;
+}
+.tag{
+    font-size:small
+}
+#home{
+    margin-top: 70px;
+}
+div h1{
+    font-weight: 1000;
+    font-size: 45px;
+}
+span{
+    color: green;
+}
+/* Cards */
+
+.card {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    background-color: white;
+    margin: 10px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 4px 15px #dddddd;
+}
+.card img {
+    width: 100%;
+    height: 180px;
+}
+.heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.card h3 {
+    color: #101828;
+    font-size: 17px;
+    margin: 15px;
+}
+.card p {
+    color: gray;
+    font-size: 13px;
+    margin: 15px;
+}
+.card h4 {
+    color: #0a4103;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.card a {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: #07833e;
+    border: 1px solid #16a34a;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 15px 15px;
+    text-align: center;
+    width: 80%;
+}
+  #section h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+ #causes h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#causes{
+      margin-top: 100px;
+}
+  #section{
+      margin-top: 100px;
+}
+#section h4{
+    text-align: center;
+}
+
+.left {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    height: 330px;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    text-align: left;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.right {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    text-align: left;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.right input {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+textarea {
+    width: 95%;
+    height: 60px;
+    padding: 10px;
+}
+
+button {
+    background-color: #07833e;
+    color: white;
+    padding: 12px;
+    border: none;
+    margin-top: 10px;
+}
+#footer {
+    background-color: #0b1220;
+    padding: 40px;
+    text-align: center;
+}
+.box {
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    text-align: left;
+    margin: 10px;
+}
+
+.box h2 {
+    color: white;
+    font-size: 25px;
+}
+
+.box h2 span {
+    color: #16c777;
+}
+
+.box h3 {
+    color: white;
+    font-size: 15px;
+}
+
+.box p {
+    color: #aabbd0;
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+button {
+    background-color: #16c777;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 25px;
+}
+
+.box input {
+    padding: 12px;
+    background-color: #1c293a;
+    border: 1px solid #344256;
+    border-radius: 20px;
+    color: white;
+    width: 65%;
+}
+
+.bottom {
+    color: #aabbd0;
+    border-top: 1px solid #263448;
+    padding-top: 20px;
+    margin-top: 35px;
+    font-size: 13px;
+}
